@@ -1,0 +1,45 @@
+{
+  "guildId": "1385782385768923318",
+  "settings": {
+    "xpEnabled": false,
+    "xpRequired": 165,
+    "tickets": {
+      "categoryId": null,
+      "supportRoleId": null,
+      "transcriptChannelId": null,
+      "nameTemplate": "ticket-{id}"
+    }
+  },
+  "xp": {
+    "users": {},
+    "channels": [],
+    "roles": [],
+    "history": [],
+    "dailyResetAt": 1763251200026,
+    "weeklyResetAt": 1762603200000
+  },
+  "economy": {
+    "balances": {}
+  },
+  "adminPoints": {},
+  "adminPointsWeekly": {
+    "users": {},
+    "resetAt": 1763251200026
+  },
+  "adminPointsDaily": {
+    "users": {},
+    "resetAt": 1763251200026
+  },
+  "adminPointsLifetime": {},
+  "activeMutes": {},
+  "warnings": {},
+  "afk": {},
+  "warnSeq": 0,
+  "shortcuts": {},
+  "commandPerms": {},
+  "textCmdChannels": [],
+  "tickets": {
+    "counter": 0,
+    "channels": {}
+  }
+}
